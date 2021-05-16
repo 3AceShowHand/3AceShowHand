@@ -3,7 +3,7 @@
 <!--
 **JinLingChristopher/JinLingChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I'm a software engineer works for PingCAP, participant in TiCDC. I was a backend software engineer at Shopee seller data group.
+- 🔭 I'm a software engineer works for PingCAP, participant in TiCDC. 
 - 🌱 I am an enthusiast of Operating System \ Database \ Distributed System \ Compiler
 - 👯 I’m looking to collaborate on TiDB and other interesting things.
 
